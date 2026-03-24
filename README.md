@@ -1,39 +1,89 @@
-<h1 align="center">Hi 👋, I'm Ritik Jagnit</h1>
-<h3 align="center">💻 Software Developer | Java & Full-Stack Developer</h3>
+<h1 align="center">🎯 AI Mock Interview Platform</h1>
+<h3 align="center">Crack Interviews with AI-Powered Practice 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Practice+Real+Interviews;AI+Powered+Evaluation;Boost+Your+Confidence;Get+Job+Ready+Fast" />
+</p>
 
 ---
 
-🚀 I build real-world applications like AI Mock Interview systems, Admin Panels, and Management Systems
-🧠 Strong in problem-solving & backend logic
-📈 Focused on becoming a high-level software engineer
+## 🚀 Overview
+
+AI Mock Interview Platform is a smart web application designed to simulate real interview environments.
+It helps users practice technical and HR interviews using AI-generated questions, real-time evaluation, and performance tracking.
+
+👉 Built to solve the gap between **learning and real interview experience**.
 
 ---
 
-## 🔧 Tech Stack
+## 🔥 Features
 
-* 💻 Java, JavaScript
-* ⚛️ React.js
-* 🌐 Node.js, Express
-* 🛢️ MySQL
-
----
-
-## 🚀 Featured Projects
-
-* 🔥 AI Mock Interview Platform
-* 🏢 Employee Management System
-* ⚙️ Admin Panel (React + Node + MySQL)
+* 🎯 AI-generated interview questions
+* 🧠 Real-time answer evaluation
+* 📊 Performance tracking dashboard
+* 🎤 Voice/Text-based responses *(optional)*
+* 🔐 Secure user authentication
+* 📁 Interview history
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ritikjagnit\&show_icons=true\&theme=radical)
+* Frontend: React.js
+* Backend: Node.js / Express
+* Database: MySQL
+* AI Integration: OpenAI API
 
 ---
 
-## 📫 Connect With Me
+## 📸 Screenshots
 
-* Instagram: ritik.jagnit.9
+<p align="center">
+  <img src="C:\Users\MBiG\Pictures\Screenshots\img.png" width="80%" />
+  <img src="C:\Users\MBiG\Pictures\Screenshots\img1.png" width="80%" />
+</p>
+
+---
+
+## 🌐 Live Demo
+
+👉 https://your-live-link.com
+
+---
+
+## ⚡ How It Works
+
+1. User logs in
+2. Selects interview type (HR / Technical)
+3. AI generates questions
+4. User answers (text/voice)
+5. System evaluates performance
+
+---
+
+## 🚀 Installation
+
+```bash id="setup1"
+git clone https://github.com/ritikjagnit/Ai_Mock_Interview.git
+cd Ai_Mock_Interview
+npm install
+npm start
+```
+
+---
+
+## 💡 Future Improvements
+
+* 📹 Video interview simulation
+* 📈 Advanced scoring system
+* 🌐 Multi-language support
+* 🤖 Better AI feedback
+
+---
+
+## 👨‍💻 Author
+
+**Ritik Jagnit**
+💻 Software Developer | Java & Full-Stack
 
 ---
