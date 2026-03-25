@@ -1,29 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ritik Jagnit</h1>
-<h3 align="center">💻 Software Developer | Java & Full-Stack Developer</h3>
-
----
-
 <!-- 🔥 Animated Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Ritik%20Jagnit&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Ritik%20Jagnit&fontSize=40&fontColor=ffffff"/>
 
 <h1 align="center">🚀 Hi, I'm Ritik Jagnit</h1>
-<h3 align="center">💻 Software Developer | Java & Full-Stack Engineer</h3>
+<h3 align="center">💻 Full-Stack Developer | Java Specialist</h3>
 
 <!-- 🔥 Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Real+World+Projects;AI+Mock+Interview+Platform;React+%7C+Node+%7C+Java;Future+Top+Tier+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Real+World+Systems;AI+Mock+Interview+Platform;React+%7C+Node+%7C+Java;Focused+on+Production+Level+Development" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritikjagnit&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-* 💻 I build real-world applications (AI, Admin Panels, EMS)
-* 🚀 Currently working on AI-powered systems
+* 💻 I build **real-world applications**, not just tutorials
+* 🚀 Working on AI-based systems & full-stack platforms
 * 🧠 Strong in backend logic & problem solving
-* 🎯 Goal: Become a top-tier software engineer
+* 🎯 Mission: Become a top-tier software engineer
 
 ---
 
@@ -35,11 +34,11 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Proof of Work)
 
-* 🔥 AI Mock Interview Platform
-* 🏢 Employee Management System
-* ⚙️ Admin Panel (React + Node + MySQL)
+* 🔥 **AI Mock Interview Platform** → AI-based interview practice system
+* 🏢 **Employee Management System** → CRUD + backend logic
+* ⚙️ **Admin Panel** → React + Node + MySQL full-stack app
 
 ---
 
@@ -69,12 +68,12 @@
 
 ---
 
-## 💡 Quote
+## 💡 Mindset
 
 <p align="center">
-  <i>"I don't just learn code — I build systems that solve real problems."</i>
+  <i>"I don't just build projects — I build systems that solve real problems."</i>
 </p>
 
-<!-- 🔥 Footer Animation -->
+<!-- 🔥 Footer -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
