@@ -1,4 +1,4 @@
-```html
+
 <!-- ===================================================== -->
 <!--              RITIK JAGNIT | GITHUB PROFILE             -->
 <!-- ===================================================== -->
@@ -238,4 +238,3 @@ WhatsApp CRM and automation platform.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:5B21B6,100:090979&height=130&section=footer"/>
 
 </div>
-```
