@@ -1,120 +1,59 @@
-# 🚀 Ritik Jagnit | Software Engineer & Full-Stack Developer
+```html
+<!-- ===================================================== -->
+<!--              RITIK JAGNIT | GITHUB PROFILE             -->
+<!-- ===================================================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090979,50:00D4FF,100:020024&height=240&section=header&text=RITIK%20JAGNIT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ENGINEERING%20DIGITAL%20EXPERIENCES&descSize=15&descAlignY=60" width="100%" />
-</p>
+<div align="center">
 
-<h3 align="center">
-  Building Intelligent Systems. Designing Digital Experiences.
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:090979,50:5B21B6,100:00D4FF&text=RITIK%20JAGNIT&fontSize=65&fontColor=ffffff&animation=fadeIn&stroke=00D4FF&strokeWidth=1&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=16&descAlignY=70"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Java+%7C+React+%7C+AI+Integration;Building+Scalable+Web+Applications;Turning+Ideas+Into+Real+Products" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Real-World+Software+Systems;Java+%7C+React+%7C+Artificial+Intelligence;Engineering+Scalable+Digital+Experiences;Code.+Create.+Innovate.+Repeat."/>
 
-<p align="center">
-  <a href="https://github.com/ritikjagnit">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/ritik.jagnit.9">
-    <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ritikjagnit&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
-</p>
+<br/>
 
----
+<a href="https://github.com/ritikjagnit">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://instagram.com/ritik.jagnit.9">
+<img src="https://img.shields.io/badge/Instagram-Connect-EC4899?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-## ◈ ABOUT ME
+<img src="https://komarev.com/ghpvc/?username=ritikjagnit&style=for-the-badge&color=7C3AED&label=PROFILE+VISITORS"/>
 
-I'm a developer passionate about engineering practical software solutions, intelligent applications, and modern digital experiences.
-
-- 💻 Developing full-stack web applications.
-- ☕ Working with Java and modern frontend technologies.
-- 🤖 Exploring AI integration, LLMs and intelligent automation.
-- 🎨 Interested in UI/UX, interactive interfaces and 3D web experiences.
-- ⚙️ Focused on clean architecture, backend engineering and real-world problem solving.
-
-**My philosophy:** Don't just write code. Engineer solutions.
+</div>
 
 ---
 
-## ◈ TECHNOLOGY ECOSYSTEM
+<h2 align="center">◈ THE DEVELOPER BEHIND THE CODE</h2>
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
-</p>
-
-### Frontend Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,bootstrap" />
-</p>
-
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,postgresql" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,docker" />
-</p>
-
----
-
-## ◈ SELECTED ENGINEERING PROJECTS
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 🤖 AI Mock Interview Platform
+### Hi, I'm Ritik 👋
 
-An AI-powered interview preparation platform.
+I'm a Computer Technology student and full-stack developer passionate about building practical software solutions.
 
-- AI-based interview practice
-- Resume evaluation
-- Interview performance tracking
-- Coding challenges
+I enjoy working across frontend engineering, backend architecture, database systems and AI-powered applications.
 
-</td>
-<td width="50%" valign="top">
+- ⚡ Building real-world applications.
+- ☕ Exploring Java and Spring Boot.
+- 🤖 Integrating AI and LLM technologies.
+- 🎨 Interested in UI/UX and interactive web experiences.
+- 🧠 Learning system design and software architecture.
 
-### 🏢 HostelSync
-
-Smart Digital Hostel Management System.
-
-- Student management
-- Attendance tracking
-- Fee management
-- Warden dashboard
-- Analytics
+**My approach:** Think deeply. Build intelligently. Ship responsibly.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="40%" align="center">
 
-### ⚡ Social Media Management Platform
+<img src="https://skillicons.dev/icons?i=java,react,js,spring,python,nodejs&perline=3" width="90%"/>
 
-A unified platform for social media workflows.
+<br/><br/>
 
-- Multi-platform integration
-- Post management
-- Backend automation
-- API integrations
+**CURRENT MISSION**
 
-</td>
-<td width="50%" valign="top">
-
-### 🚦 TRAQON
-
-Multi-Camera ANPR & Traffic Analytics.
-
-- YOLO-based vehicle detection
-- License plate recognition
-- ByteTrack tracking
-- Multi-camera trajectory analysis
+Building better software, one project at a time.
 
 </td>
 </tr>
@@ -122,50 +61,181 @@ Multi-Camera ANPR & Traffic Analytics.
 
 ---
 
-## ◈ GITHUB ANALYTICS
+<h2 align="center">◈ TECHNOLOGY ARSENAL</h2>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ritikjagnit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikjagnit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
-</p>
+<table width="100%">
+<tr>
+<td align="center" width="50%">
 
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=ritikjagnit&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-</p>
+### Frontend Engineering
 
-### Contribution Activity
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap&perline=4"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikjagnit&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
+</td>
+<td align="center" width="50%">
+
+### Backend Engineering
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&perline=4"/>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### Database & Storage
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&perline=4"/>
+
+</td>
+<td align="center">
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker&perline=4"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ◈ CURRENT FOCUS
+<h2 align="center">◈ FEATURED ENGINEERING PROJECTS</h2>
 
-```text
-01  Advanced Java & Spring Boot
-02  System Design & Backend Architecture
-03  Artificial Intelligence & LLM Integration
-04  React & Modern UI Engineering
-05  Scalable Production-Level Applications
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>🏨 HostelSync</h3>
+
+Smart Digital Hostel Management System.
+
+- Student and hostel management
+- Attendance and fee tracking
+- Warden and admin dashboards
+- Analytics and reporting
+
+**Stack:** React · Spring Boot · PostgreSQL
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚦 TRAQON</h3>
+
+Multi-Camera ANPR Trajectory Tracking & Urban Traffic Analytics.
+
+- YOLO vehicle detection
+- License plate recognition
+- ByteTrack tracking
+- Multi-camera trajectory analysis
+
+**Stack:** Python · FastAPI · React
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🤖 JARVIS AI</h3>
+
+Voice-enabled personal assistant.
+
+- Voice command processing
+- Face recognition
+- OCR integration
+- Intelligent automation
+
+**Stack:** Python · OpenCV · AI
+
+</td>
+<td width="50%" valign="top">
+
+<h3>💬 SocialPlus CRM</h3>
+
+WhatsApp CRM and automation platform.
+
+- Customer management
+- Automated messaging workflows
+- STOP / START bot controls
+- Backend integration
+
+**Stack:** React · Node.js · PostgreSQL
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/ritikjagnit?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<h2 align="center">◈ GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ritikjagnit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9D7BFF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikjagnit&layout=compact&hide_border=true&bg_color=0D1117&title_color=9D7BFF&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=ritikjagnit&theme=transparent&hide_border=true&background=0D1117&ring=9D7BFF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA"/>
+
+</div>
+
+---
+
+<h2 align="center">◈ CONTRIBUTION ACTIVITY</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritikjagnit&bg_color=0D1117&color=9D7BFF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Development%20Activity"/>
+
+</div>
+
+---
+
+<h2 align="center">◈ WHAT'S NEXT?</h2>
+
+<div align="center">
+
+| Focus Area | Direction |
+|:---|:---|
+| Backend Engineering | Advanced Java & Spring Boot |
+| AI Engineering | LLM Integration & AI Applications |
+| Frontend Engineering | React & Interactive UI |
+| Software Architecture | System Design & Scalability |
+| Development | Production-ready Applications |
+
+</div>
+
+---
+
+<h2 align="center">◈ LET'S BUILD SOMETHING GREAT</h2>
+
+<div align="center">
+
+<a href="https://github.com/ritikjagnit">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/ritik.jagnit.9">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### "Great software is engineered, not just coded."
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:5B21B6,100:090979&height=130&section=footer"/>
+
+</div>
 ```
-
----
-
-## ◈ LET'S CONNECT
-
-<p align="center">
-  <a href="https://github.com/ritikjagnit">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/ritik.jagnit.9">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>"Great software isn't just written. It's thoughtfully engineered."</i>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00D4FF&height=130&section=footer" width="100%"/>
